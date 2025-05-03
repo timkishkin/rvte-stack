@@ -24,7 +24,7 @@ This project is a simple frontend and backend TypeScript solution created using 
    cp .env.template .env
    ```
 
-4. Add your OpenAI API key to the `.env` file:
+4. Add your env variables (if needed) to the `.env` file:
 
    ```env
    OPENAI_API_KEY=your_openai_api_key_here
