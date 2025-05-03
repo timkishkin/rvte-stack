@@ -1,4 +1,4 @@
-# RVTE: React • Vite • TypeScript • Express project template
+# 🛣️ RVTE: React • Vite • TypeScript • Express project template
 
 This project is a simple frontend and backend TypeScript solution created using `create-vite` and recommendations from [ChatGPT](https://chatgpt.com/share/67e4326e-9530-8008-8d06-a39dcc5b24b1). It demonstrates a basic setup for a full-stack application with a React frontend and an Express backend.
 
